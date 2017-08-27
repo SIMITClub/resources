@@ -7,6 +7,9 @@ You can know more about us at https://simitclub.github.io/ <sub>We do have a bot
 And also checkout our projects that were created at https://github.com/SIMITClub
 
 ## Hackathons
+### Past
+- None
+### Upcoming
 - http://www.sutdwth.com/
 - http://fishackathon.co/
 

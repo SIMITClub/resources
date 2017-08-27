@@ -3,6 +3,7 @@ Collection of links and resources
 
 ## About
 You can know more about us at https://simitclub.github.io/ <sub>We do have a bot embeded, try it out!</sub>
+
 And also checkout our projects that were created at https://github.com/SIMITClub
 
 ## Hackathons

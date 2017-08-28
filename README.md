@@ -20,6 +20,8 @@ And also checkout our projects that we have created at https://github.com/SIMITC
 ## Website Development
 - https://www.w3schools.com/
 
+### CSS
+- [Power of CSS](https://youtu.be/woQuLGyi1zk)
 ## Python
 - [How Did Python Become A Data Science Powerhouse?](https://www.youtube.com/watch?v=9by46AAqz70)
 

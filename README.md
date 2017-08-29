@@ -2,9 +2,9 @@
 Collection of links and resources
 
 ## About
-You can know more about us at https://simitclub.github.io/ <sub>We do have a bot embeded, try it out!</sub>
+Check out our [website](https://simitclub.github.io/) <sub>We do have a bot embeded, try it out!</sub>
 
-And also checkout our projects that we have created at https://github.com/SIMITClub
+And also checkout our [projects](https://github.com/SIMITClub) that we have created.
 
 ## Hackathons
 

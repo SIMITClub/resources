@@ -25,6 +25,9 @@ And also checkout our projects that we have created at https://github.com/SIMITC
 ## Python
 - [How Did Python Become A Data Science Powerhouse?](https://www.youtube.com/watch?v=9by46AAqz70)
 
+## Additional
+- [From REST To GraphQL](https://youtu.be/ntBU5UXGbM8)
+
 ## Contributors
 - [Smit Shah](https://github.com/shah-smit)
 

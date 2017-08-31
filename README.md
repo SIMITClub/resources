@@ -26,6 +26,7 @@ And also checkout our [projects](https://github.com/SIMITClub) that we have crea
 - [How Did Python Become A Data Science Powerhouse?](https://www.youtube.com/watch?v=9by46AAqz70)
 
 ## Additional
+### Techniques
 - [From REST To GraphQL](https://youtu.be/ntBU5UXGbM8)
 
 ## Contributors

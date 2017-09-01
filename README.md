@@ -37,6 +37,13 @@ And also checkout our [projects](https://github.com/SIMITClub) that we have crea
 - [What The Hack](http://www.sutdwth.com/)
 - [Fishackathon](http://fishackathon.co/)
 
+## Proto Typing Tools
+- [Marvel App](https://marvelapp.com/)
+- [Invision App](https://www.invisionapp.com/)
+- [Proto IO](https://proto.io/)
+- [Flinto](https://www.flinto.com/)
+- [Just In Mind](https://www.justinmind.com/)
+
 
 ## Youtube Channel
 - [Coding Tech](https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ)

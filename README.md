@@ -28,6 +28,9 @@ And also checkout our [projects](https://github.com/SIMITClub) that we have crea
 ## Additional
 - [From REST To GraphQL](https://youtu.be/ntBU5UXGbM8)
 
+### Youtube Channel
+- [Coding Tech](https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ)
+
 ## Contributors
 - [Smit Shah](https://github.com/shah-smit)
 

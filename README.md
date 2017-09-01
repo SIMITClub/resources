@@ -36,6 +36,7 @@ And also checkout our [projects](https://github.com/SIMITClub) that we have crea
 ### Upcoming
 - [What The Hack](http://www.sutdwth.com/)
 - [Fishackathon](http://fishackathon.co/)
+- [SIA App Challenge](http://appchallenge.singaporeair.com/)
 
 ## Proto Typing Tools
 - [Marvel App](https://marvelapp.com/)

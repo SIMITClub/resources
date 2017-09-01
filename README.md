@@ -6,7 +6,7 @@ Check out our [website](https://simitclub.github.io/) <sub>We do have a bot embe
 
 And also checkout our [projects](https://github.com/SIMITClub) that we have created.
 
-## Development IDE Tools
+## Recommend IDE
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [Sublime Text 3](https://www.sublimetext.com/3)
 - [Atom](https://atom.io/)

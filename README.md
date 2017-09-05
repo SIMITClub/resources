@@ -6,7 +6,7 @@ Check out our [website](https://simitclub.github.io/) <sub>We do have a bot embe
 
 And also checkout our [projects](https://github.com/SIMITClub) that we have created.
 
-## Recommend IDE
+## Recommended IDE
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [Sublime Text 3](https://www.sublimetext.com/3)
 - [Atom](https://atom.io/)
@@ -44,6 +44,9 @@ And also checkout our [projects](https://github.com/SIMITClub) that we have crea
 - [Proto IO](https://proto.io/)
 - [Flinto](https://www.flinto.com/)
 - [Just In Mind](https://www.justinmind.com/)
+
+## GITHub
+- [Learn Hello World Git](https://guides.github.com/activities/hello-world/)
 
 
 ## Youtube Channel

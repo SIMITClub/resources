@@ -26,7 +26,7 @@ And also checkout our [projects](https://github.com/SIMITClub) that we have crea
 
 ## Python
 - [How Did Python Become A Data Science Powerhouse?](https://www.youtube.com/watch?v=9by46AAqz70)
-
+- [Python Concepts](https://www.tutorialspoint.com/python/index.htm)
 
 ## Hackathons
 

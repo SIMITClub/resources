@@ -54,5 +54,6 @@ And also checkout our [projects](https://github.com/SIMITClub) that we have crea
 
 ## Contributors
 - [Smit Shah](https://github.com/shah-smit)
+- [PaviIsPro](https://github.com/PaviIsPro)
 
 

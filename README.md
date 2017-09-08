@@ -1,5 +1,6 @@
 # Resources
-Collection of links and resources
+Collection of links and resources<br>
+Everything you need to know about IT and around it.
 
 ## About
 Check out our [website](https://simitclub.github.io/) <sub>We do have a bot embeded, try it out!</sub>

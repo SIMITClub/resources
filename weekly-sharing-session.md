@@ -1,7 +1,7 @@
 # Weekly Sharing Session
 
 ## About
-During the session, we will conduct workshops that will help all of us to improve our skill sets. If you want to know more, contact us on our [Facebook Page](https://www.facebook.com/simitclub) or [email us](it@mymail.sim.edu.sg).
+During the session, we will conduct workshops that will help all of us to improve our skill sets. If you want to know more, contact us on our [facebook page](https://www.facebook.com/simitclub) or [email us](it@mymail.sim.edu.sg).
 
 ## Week 1 - ChatFuel
 

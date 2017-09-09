@@ -25,6 +25,7 @@ All the participants got to try out, how to use [ChatFuel](https://chatfuel.com/
   - You can link this messages in a form of a button or through AI keywords
 - Add AI - keyword detection to user input.
   - Create a set of keywords that you think user will usually type and set a response to it.
+  - A response, can be a normal text, or a block you created earlier or a set of messages.
 
 ### Feedback
 Please provide your [feedback](https://goo.gl/forms/4nRZeob8yFVxCuiy1) on the workshop, such that we can improve for our future sessions.

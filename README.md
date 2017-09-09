@@ -54,6 +54,9 @@ And also checkout our [projects](https://github.com/SIMITClub) that we have crea
 ## Youtube Channel
 - [Coding Tech](https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ)
 
+## Weekly Sessions
+- (Week One on ChatFuel)[https://github.com/SIMITClub/resources/blob/master/weekly-sharing-session.md#week-1---chatfuel]
+
 ## Contributors
 - [Smit Shah](https://github.com/shah-smit)
 - [PaviIsPro](https://github.com/PaviIsPro)

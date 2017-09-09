@@ -20,7 +20,11 @@ All the participants got to try out, how to use [ChatFuel](https://chatfuel.com/
 
 ### Topics Covered
 - Add Blocks
+  - Consider blocks as a new message.
+  - You can create new messages as many as you can
+  - You can link this messages in a form of a button or through AI keywords
 - Add AI - keyword detection to user input.
+  - Create a set of keywords that you think user will usually type and set a response to it.
 
 ### Feedback
 Please provide your [feedback](https://goo.gl/forms/4nRZeob8yFVxCuiy1) on the workshop, such that we can improve for our future sessions.

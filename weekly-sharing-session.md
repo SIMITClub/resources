@@ -60,7 +60,7 @@ Prerequisites:
 1900 - 1930: 
 Setting up / Introduction 
 
-Introduction to Figma / Setting up Figma
+**Introduction to Figma / Setting up Figma**
 
 1. Sign up for [Figma](https://www.figma.com) (Verify your school details to get free Figma’s Student Plan)
 
@@ -72,7 +72,7 @@ Picking colors and fonts
 Best practices for font sizes
 
 19:30 - 21:00 
-Designing a one page profile page
+**Designing a one page profile page**
 [May end earlier depending on progress]
 
 1. What are frames in Figma? 

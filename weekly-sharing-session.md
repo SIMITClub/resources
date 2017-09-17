@@ -62,8 +62,8 @@ Setting up / Introduction
 
 Introduction to Figma / Setting up Figma
 
-1. Sign up for Figma (Verify your school details to get free Figma’s Student Plan)
-https://www.figma.com
+1. Sign up for [Figma](https://www.figma.com) (Verify your school details to get free Figma’s Student Plan)
+
 *Would be great to get this done before the session
 
 How to determine an art direction

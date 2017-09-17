@@ -50,7 +50,7 @@ Date & time: 21th September 2017 @ 7pm
 Venue: SIM B.5.10
 Speaker: Woon Chee
 
-Register: [RSVP](https://goo.gl/forms/faW9bblqbuF9gwlQ2) through google forms - https://goo.gl/forms/faW9bblqbuF9gwlQ2
+Register [here](https://goo.gl/forms/faW9bblqbuF9gwlQ2) - https://goo.gl/forms/faW9bblqbuF9gwlQ2
 
 ### Agenda
 Prerequisites:

@@ -86,3 +86,6 @@ Designing a one page profile page
 
 ### Works
 - To be filled after the session
+
+### Feedback
+Please provide us with the [feedback](https://goo.gl/forms/HhvFunjomsCsuCP42), such that we can improve our upcoming sessions. https://goo.gl/forms/HhvFunjomsCsuCP42

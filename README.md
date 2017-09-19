@@ -38,8 +38,9 @@ And also checkout our [projects](https://github.com/SIMITClub) that we have crea
 - [What The Hack](http://www.sutdwth.com/)
 - [Startup Weekend](https://www.facebook.com/startupweekendsingapore/)
 - [ITA Tech Challenge Virtual](https://www.hackerrank.com/tests/6rq2j7bjaq8/db8cea71bf469694771180f208db8fb1)
-- [Fishackathon](http://fishackathon.co/)
+- [iNTUition](http://intuition.ieeentu.com/)
 - [SIA App Challenge](http://appchallenge.singaporeair.com/)
+- [Fishackathon](http://fishackathon.co/)
 
 ## Proto Typing Tools
 - [Marvel App](https://marvelapp.com/)

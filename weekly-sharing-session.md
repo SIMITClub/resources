@@ -114,4 +114,4 @@ Speaker: [Agrim Singh](https://twitter.com/agrimsingh)
 - How will these enter the current market
 
 ### Resources
-- [Smit](https://github.com/shah-smit) has designed [Pitch/Presentation](https://docs.google.com/presentation/d/186HMONiRvWgvdXxuIw4h4gcerz99KxO-YyRotpsqaWM/edit?usp=sharing) format.
+- [Smit](https://github.com/shah-smit) has designed [Pitch/Presentation](https://docs.google.com/presentation/d/186HMONiRvWgvdXxuIw4h4gcerz99KxO-YyRotpsqaWM/edit?usp=sharing) format. If that can be of any help

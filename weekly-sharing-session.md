@@ -95,6 +95,11 @@ Please provide us with the [feedback](https://goo.gl/forms/HhvFunjomsCsuCP42), s
 ### About
 Agrim, winner of hackathons, had come down to speak about his journey of failing and driving success.
 
+
+Date & time: 23th September 2017 @ 7pm
+Venue: Lvl 1 Student Hub
+Speaker: [Agrim Singh](https://twitter.com/agrimsingh)
+
 ### Tips
 - Pre plan
 - Ensure to know each others' weak points, and work as a team

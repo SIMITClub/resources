@@ -44,11 +44,11 @@ Please provide your [feedback](https://goo.gl/forms/4nRZeob8yFVxCuiy1) on the wo
 ## Week 3 - Design
 
 ### About
-Design Workshop
-
-Date & time: 21th September 2017 @ 7pm
-Venue: SIM B.5.10
-Speaker: Woon Chee
+Design Workshop <br/>
+<br/>
+Date & time: 21th September 2017 @ 7pm <br/>
+Venue: SIM B.5.10 <br/>
+Speaker: Woon Chee <br/>
 
 Register [here](https://goo.gl/forms/faW9bblqbuF9gwlQ2) - https://goo.gl/forms/faW9bblqbuF9gwlQ2
 
@@ -97,7 +97,7 @@ Agrim, winner of hackathons, had come down to speak about his journey of failing
 <br/>
 
 Date & time: 23th September 2017 @ 7pm <br/>
-Venue: Lvl 1 Student Hub <br/>
+Venue: Blk Lvl 1 Student Hub <br/>
 Speaker: [Agrim Singh](https://twitter.com/agrimsingh) <br/>
 
 ### Tips

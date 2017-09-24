@@ -89,3 +89,24 @@ Best practices for font sizes
 
 ### Feedback
 Please provide us with the [feedback](https://goo.gl/forms/HhvFunjomsCsuCP42), such that we can improve our upcoming sessions. https://goo.gl/forms/HhvFunjomsCsuCP42
+
+## Week 3 - Pre-Hack Workshop
+
+### About
+Agrim, winner of hackathons, had come down to speak about his journey of failing and driving success.
+
+### Tips
+- Pre plan
+- Ensure to know each others' weak points, and work as a team
+- Time every task, and adjust accordingly
+
+### What to include in Pitch
+- Problem
+- Why is it a problem(convey to others why you see it as an issue)
+- Current Solutions
+- Demo
+- How is your idea better/different than current solution
+- How will these enter the current market
+
+### Resources
+- Smit has designed (Pitch/Presentation)[https://docs.google.com/presentation/d/186HMONiRvWgvdXxuIw4h4gcerz99KxO-YyRotpsqaWM/edit?usp=sharing] format.

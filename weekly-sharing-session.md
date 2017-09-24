@@ -48,7 +48,7 @@ Design Workshop <br/>
 <br/>
 Date & time: 21th September 2017 @ 7pm <br/>
 Venue: SIM B.5.10 <br/>
-Speaker: Woon Chee <br/>
+Speaker: [Woon Chee](https://sg.linkedin.com/in/woonchee) <br/>
 
 Register [here](https://goo.gl/forms/faW9bblqbuF9gwlQ2) - https://goo.gl/forms/faW9bblqbuF9gwlQ2
 

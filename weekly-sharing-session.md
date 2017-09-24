@@ -97,7 +97,7 @@ Agrim, winner of hackathons, had come down to speak about his journey of failing
 <br/>
 
 Date & time: 23th September 2017 @ 7pm <br/>
-Venue: Blk Lvl 1 Student Hub <br/>
+Venue: Blk B Lvl 1 Student Hub <br/>
 Speaker: [Agrim Singh](https://twitter.com/agrimsingh) <br/>
 
 ### Tips

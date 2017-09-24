@@ -109,4 +109,4 @@ Agrim, winner of hackathons, had come down to speak about his journey of failing
 - How will these enter the current market
 
 ### Resources
-- Smit has designed (Pitch/Presentation)[https://docs.google.com/presentation/d/186HMONiRvWgvdXxuIw4h4gcerz99KxO-YyRotpsqaWM/edit?usp=sharing] format.
+- [Smit](https://github.com/shah-smit) has designed [Pitch/Presentation](https://docs.google.com/presentation/d/186HMONiRvWgvdXxuIw4h4gcerz99KxO-YyRotpsqaWM/edit?usp=sharing) format.

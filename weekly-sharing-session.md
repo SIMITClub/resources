@@ -93,12 +93,12 @@ Please provide us with the [feedback](https://goo.gl/forms/HhvFunjomsCsuCP42), s
 ## Week 3 - Pre-Hack Workshop
 
 ### About
-Agrim, winner of hackathons, had come down to speak about his journey of failing and driving success.
+Agrim, winner of hackathons, had come down to speak about his journey of failing and driving success. <br/>
+<br/>
 
-
-Date & time: 23th September 2017 @ 7pm
-Venue: Lvl 1 Student Hub
-Speaker: [Agrim Singh](https://twitter.com/agrimsingh)
+Date & time: 23th September 2017 @ 7pm <br/>
+Venue: Lvl 1 Student Hub <br/>
+Speaker: [Agrim Singh](https://twitter.com/agrimsingh) <br/>
 
 ### Tips
 - Pre plan

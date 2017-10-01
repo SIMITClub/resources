@@ -58,6 +58,9 @@ And also checkout our [projects](https://github.com/SIMITClub) that we have crea
 
 ## Weekly Sessions
 - [Week One on ChatFuel](https://github.com/SIMITClub/resources/blob/master/weekly-sharing-session.md#week-1---chatfuel)
+- [Week Three on Design](https://github.com/SIMITClub/resources/blob/master/weekly-sharing-session.md#week-3---design)
+- [Week Three on Pre-Hack Tips](https://github.com/SIMITClub/resources/blob/master/weekly-sharing-session.md#week-3---pre-hack-workshop)
+- [Week Five on Unmasking GitHub](https://github.com/SIMITClub/resources/blob/master/weekly-sharing-session.md#week-5---unmask-github)
 
 ## Contributors
 - [Smit Shah](https://github.com/shah-smit)

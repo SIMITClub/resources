@@ -115,3 +115,32 @@ Speaker: [Agrim Singh](https://twitter.com/agrimsingh) <br/>
 
 ### Resources
 - [Smit](https://github.com/shah-smit) has designed [Pitch/Presentation](https://docs.google.com/presentation/d/186HMONiRvWgvdXxuIw4h4gcerz99KxO-YyRotpsqaWM/edit?usp=sharing) format. If that can be of any help
+
+## Week 4 - No Sessions
+
+## Week 5 - Unmask {Git+hub}
+
+### About
+
+Github Workshop <br/>
+<br/>
+Date & time: 6th October 2017 @ 7pm <br/>
+Venue: SIM SR B.4.14 <br/>
+Speaker: [Smit Shah](https://www.linkedin.com/in/smit-shah-2b76b8b5/) <br/>
+
+Register [here](https://goo.gl/forms/pvEqYSigNfBTFu0n1) - https://goo.gl/forms/pvEqYSigNfBTFu0n1
+
+### Agenda
+
+A weekly session to teach how to collaborate, host your own website and uncover student perks.
+
+#devops
+
+Agenda:
+- Make changes to our GitHub organisation projects.
+- understand in and out, how organisation uses GitHub
+- Get perks; whilst you are a student.
+- Most likely host your own website on GitHub (using command line)
+
+### Resources
+- Student Github Pack

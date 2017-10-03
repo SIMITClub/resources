@@ -52,6 +52,10 @@ And also checkout our [projects](https://github.com/SIMITClub) that we have crea
 ## GITHub
 - [Learn Hello World Git](https://guides.github.com/activities/hello-world/)
 
+## Java
+- [Java JDK](]http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
+- [Eclipse](]http://www.eclipse.org/downloads/packages/eclipse-ide-java-developers/oxygen1)
+
 
 ## Youtube Channel
 - [Coding Tech](https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ)

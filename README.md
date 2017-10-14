@@ -60,6 +60,9 @@ And also checkout our [projects](https://github.com/SIMITClub) that we have crea
 ## Youtube Channel
 - [Coding Tech](https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ)
 
+## Blockchain
+- [Blockchain Revolution](http://www.businessinsider.com/become-a-blockchain-expert-in-1384-words-2017-10/?IR=T)
+
 ## Weekly Sessions
 - [Week One on ChatFuel](https://github.com/SIMITClub/resources/blob/master/weekly-sharing-session.md#week-1---chatfuel)
 - [Week Three on Design](https://github.com/SIMITClub/resources/blob/master/weekly-sharing-session.md#week-3---design)

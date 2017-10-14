@@ -143,4 +143,5 @@ Agenda:
 - Most likely host your own website on GitHub (using command line)
 
 ### Resources
-- Student Github Pack
+- [Student Github Pack](https://education.github.com/pack)
+- [Learn Github](https://guides.github.com/activities/hello-world/)

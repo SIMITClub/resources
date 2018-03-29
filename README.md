@@ -20,10 +20,11 @@ And also checkout our [projects](https://github.com/SIMITClub) that we have crea
 
 ## Website Development
 - https://www.w3schools.com/
-- [Getting started with Web](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web)
-- [HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML)
-- [CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS)
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
+  ### Getting Started
+  - [Getting started with Web](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web)
+  - [HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML)
+  - [CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS)
+  - [JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
 
 ### CSS
 - [Power of CSS](https://youtu.be/woQuLGyi1zk)
